@@ -4,9 +4,10 @@
     <Link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
     </Link>
   </Head>
-  <main class="main-bg h-screen">
+  <main class="main-bg flex flex-col gap-5">
     <Header></Header>
     <Home></Home>
+    <AboutMe></AboutMe>
   </main>
 </template>
 <style>

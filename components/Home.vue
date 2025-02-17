@@ -4,7 +4,6 @@
         <div>
             <p>Fullstack Developer</p>
             <h1 class="uppercase text-6xl font-semibold">Gabriel Pelincel</h1>
-            <!-- <h2 class="text-xl">Fullstack Developer</h2> -->
             <hr class="my-3">
             <div class="flex items-center gap-6 text-6xl">
                 <i class="devicon-php-plain"></i>
