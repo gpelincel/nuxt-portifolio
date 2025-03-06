@@ -8,6 +8,7 @@
     <Header></Header>
     <Home></Home>
     <AboutMe></AboutMe>
+    <Projects></Projects>
   </main>
 </template>
 <style>

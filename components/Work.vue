@@ -7,16 +7,12 @@
         <div class="space-y-2 border-r border-white">
             <p class="opacity-75 text-xl">Global Data</p>
             <h1 class="text-2xl font-bold">Estagiário Desenvolvimento Web</h1>
-            <p class="text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed orci in justo mollis
-                vulputate. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-                turpis egestas.</p>
+            <p class="text-lg">Durante meu estágio na Global Data, atuei como desenvolvedor fullstack, contribuindo para projetos que impactaram diretamente os processos internos e a experiência dos usuários. Esse estágio foi fundamental para ampliar minhas habilidades técnicas, principalmente em PHP, e entender as especificidades de sistemas voltados à saúde pública.</p>
         </div>
         <div class="space-y-2">
             <p class="opacity-75 text-xl">RPV Tecnologia</p>
             <h1 class="text-2xl font-bold">Desenvovlvedor Fullstack</h1>
-            <p class="text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed orci in justo mollis
-                vulputate. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-                turpis egestas.</p>
+            <p class="text-lg">Como desenvolvedor integral na RPV Tecnologia, atuei na criação de sistemas web, aplicativos mobile e APIs, utilizando PHP e AngularJS como tecnologias principais. Meu trabalho sempre foi focado em resolver problemas práticos e atender às necessidades do negócio. Essa experiência solidificou minha expertise nessas tecnologias e ampliou minha visão de como alinhar desenvolvimento técnico com as demandas do mercado.</p>
         </div>
     </div>
 </template>

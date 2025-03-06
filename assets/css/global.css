@@ -17,6 +17,14 @@
     color: var(--extra-light-blue);
 }
 
+.text-main{
+    color: var(--medium-blue);
+}
+
+.bg-blue{
+    background: var(---blue);
+}
+
 .navbar li{
     border-bottom: transparent 2px solid;
     transition: .15s linear;
