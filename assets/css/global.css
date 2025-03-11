@@ -25,6 +25,14 @@
     background: var(---blue);
 }
 
+.bg-light-blue{
+    background: var(--light-blue);
+}
+
+.bg-medium-blue{
+    background: var(--medium-blue);
+}
+
 .navbar li{
     border-bottom: transparent 2px solid;
     transition: .15s linear;

@@ -7,8 +7,8 @@
         <nav class="flex items-center gap-2">
             <ul class="navbar flex gap-6 w-full uppercase font-semibold text-xl">
                 <li><a href="">Home</a></li>
-                <li><a href="">About Me</a></li>
-                <li><a href="">Projects</a></li>
+                <li><a href="">Sobre mim</a></li>
+                <li><a href="">Projetos</a></li>
             </ul>
             <p class="text-5xl">|</p>
             <ul class="flex gap-3 text-2xl mb-[-5px]">

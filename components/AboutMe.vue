@@ -1,7 +1,7 @@
 <template>
     <div class="grid grid-cols-2 items-center justify-items-center">
         <div class="rounded-full border border-2 border-white p-2">
-            <img class="rounded-full" src="https://placehold.co/300x300" alt="">
+            <img class="rounded-full w-64 h-64 object-cover bottom-0" src="~/assets/img/foto-perfil-removebg-preview.jpg" alt="">
         </div>
         <div class="text-justify pr-12 text-lg">
             <h1 class="font-semibold uppercase text-5xl">Sobre mim</h1>

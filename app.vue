@@ -9,6 +9,7 @@
     <Home></Home>
     <AboutMe></AboutMe>
     <Projects></Projects>
+    <Footer></Footer>
   </main>
 </template>
 <style>
