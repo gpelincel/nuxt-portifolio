@@ -5,7 +5,7 @@ console.log(projects);
 </script>
 
 <template>
-    <div class="px-12 my-8">
+    <div id="projects" class="lg:px-12 px-4 my-8">
         <h1 class="font-semibold uppercase text-5xl">Meus Projetos</h1>
         <hr class="my-4">
         <div class="flex flex-col gap-12 h-full">

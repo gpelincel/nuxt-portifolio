@@ -4,7 +4,12 @@
     <Link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
     </Link>
   </Head>
-  <main class="main-bg flex flex-col gap-5">
+  <div class="absolute inset-0">
+    <ClientOnly>
+      <BackgroundParticles></BackgroundParticles>
+    </ClientOnly>
+  </div>
+  <main class="main-bg flex flex-col gap-5 relative z-1">
     <Header></Header>
     <Home></Home>
     <AboutMe></AboutMe>

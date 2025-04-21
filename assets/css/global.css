@@ -4,7 +4,9 @@
 @import "tailwindcss";
 
 * {
+	--grid-cols: 0.75fr 1fr;
 	font-family: "Rajdhani", serif;
+	scroll-behavior: smooth;
 }
 
 .main-bg {

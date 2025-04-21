@@ -1,8 +1,8 @@
 <template>
-    <div class="px-12 my-8">
+    <div id="contacts" class="lg:px-12 px-4 my-8">
         <h1 class="font-semibold uppercase text-5xl">Entre em contato</h1>
         <hr class="my-4">
-        <div class="flex items-center justify-center gap-24 h-full py-16">
+        <div class="flex lg:flex-row flex-col items-center justify-center gap-24 h-full py-16">
             <div class="text-center">
                 <div class="bg-blue">
                     <i class="text-6xl text-white fi fi-rr-phone-call"></i>
