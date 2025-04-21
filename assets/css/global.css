@@ -1,43 +1,60 @@
-@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
-@import url('https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-rounded/css/uicons-regular-rounded.css');
-@import url('https://cdn-uicons.flaticon.com/2.6.0/uicons-brands/css/uicons-brands.css');
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap");
+@import url("https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-rounded/css/uicons-regular-rounded.css");
+@import url("https://cdn-uicons.flaticon.com/2.6.0/uicons-brands/css/uicons-brands.css");
 @import "tailwindcss";
 
-*{
-    --dark-blue: #03045E;
-    --medium-blue: #0077B6;
-    --blue: #00B4D8;
-    --light-blue: #90E0EF;
-    --extra-light-blue: #CAF0F8;
-    font-family: "Rajdhani", serif;
+* {
+	font-family: "Rajdhani", serif;
 }
 
-.main-bg{
-    background: var(--medium-blue);
-    color: var(--extra-light-blue);
+.main-bg {
+	background: #000000; /* fallback for old browsers */
+	background: -webkit-linear-gradient(
+		to top,
+		#1f1f1f,
+		#000000
+	); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(
+		to top,
+		#1f1f1f,
+		#000000
+	); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	color: white;
 }
 
-.text-main{
-    color: var(--medium-blue);
+.bg-gray{
+    background: #1f1f1f;
 }
 
-.bg-blue{
-    background: var(---blue);
+.text-gray{
+    background: #1f1f1f;
 }
 
-.bg-light-blue{
-    background: var(--light-blue);
+.border-gray{
+    border-color: #5a5a5a;
 }
 
-.bg-medium-blue{
-    background: var(--medium-blue);
+hr {
+    border-color: #5a5a5a;
 }
 
-.navbar li{
-    border-bottom: transparent 2px solid;
-    transition: .15s linear;
+.text-red{
+    color: #ff6242;
 }
 
-.navbar li:hover{
-    border-bottom-color: #CAF0F8;
+.bg-red{
+    background: #ff6242;
+}
+
+.text-main {
+	color: white;
+}
+
+.navbar li {
+	border-bottom: transparent 2px solid;
+	transition: 0.15s linear;
+}
+
+.navbar li:hover {
+	border-bottom-color: #caf0f8;
 }
