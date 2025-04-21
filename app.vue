@@ -3,6 +3,7 @@
   <Head>
     <Link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
     </Link>
+    <Title>Gabriel Pelincel</Title>
   </Head>
   <div class="absolute inset-0">
     <ClientOnly>
