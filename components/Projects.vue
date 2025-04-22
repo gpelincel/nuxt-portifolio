@@ -1,5 +1,5 @@
 <script setup>
-const { data: projects } = await useFetch('/api/projects')
+const { data: projects } = await useFetch('/json/projects.json')
 
 console.log(projects);
 </script>

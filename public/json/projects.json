@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+		"title": "SimplesOS (Em desenvolvimento)",
+		"description": "Simples OS é um sistema web para gerenciamento de ordens de serviço, desenvolvido com o framework Laravel. Ele permite o controle eficiente de solicitações de serviços, facilitando o acompanhamento e a organização das tarefas.",
+		"github": "https://github.com/gpelincel/descarmed-os",
+		"link": "https://descarmed.gabrielpelincel.com/login",
+		"image": "/projects/simples_os.png"
+	},
+	{
+		"id": 2,
+		"title": "Código Aberto (Em desenvolvimento)",
+		"description": "Uma nova experiência para desenvolvedores iniciantes e ONGs! Código Aberto é uma plataforma web que conecta desenvolvedores iniciantes a projetos voluntários, oferecendo experiência prática, networking e portfólio, ao mesmo tempo que ajuda organizações sociais a digitalizarem seus processos.",
+		"github": "https://github.com/gpelincel/codigo-aberto",
+		"link": "",
+		"image": "/projects/codigo_aberto.jpg"
+	}
+]
